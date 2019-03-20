@@ -182,6 +182,7 @@ const allTypes = [
             'user_2005@abcdasddf.com',
             'user_2005@abcdasddf.cn',
             'user_2005@abcdasddf.site',
+            '123412341234@pp.com'
         ],
         false: [
             'htt://www.baidu.com',
