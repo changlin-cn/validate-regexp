@@ -182,7 +182,9 @@ const allTypes = [
             'user_2005@abcdasddf.com',
             'user_2005@abcdasddf.cn',
             'user_2005@abcdasddf.site',
-            '123412341234@pp.com'
+            '123412341234@pp.com',
+            '1@qq.com',
+            '-1234234234@qq.com',
         ],
         false: [
             'htt://www.baidu.com',
@@ -193,13 +195,11 @@ const allTypes = [
             'user_2005@.com.site',
             '',
             'a12342341234',
-            '-1234234234@qq.com',
+
             '%asdf1239847102@aa.com',
             '2341',
-            '-user@125.com',
-            '_user-admin@163.com',
-            'user-_admin@163.com',
             '.user_2005@qq.com',
+            '@qq.com',
         ],
     },
     {
